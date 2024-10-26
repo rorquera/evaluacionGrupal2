@@ -1,0 +1,7 @@
+12:29:36.106 [main] INFO  com.krakedev.moduloii.evaluacionfinal.servicios.ServiciosArticulo - Error inesperado al guardar los datos. error al obtener conexión
+12:32:52.478 [main] INFO  com.krakedev.moduloii.evaluacionfinal.servicios.ServiciosArticulo - Error inesperado al guardar los datos. error al obtener conexión
+12:34:19.214 [main] INFO  com.krakedev.moduloii.evaluacionfinal.servicios.ServiciosArticulo - Error inesperado al guardar los datos. error al obtener conexión
+12:35:32.130 [main] INFO  com.krakedev.moduloii.evaluacionfinal.servicios.ServiciosArticulo - Error inesperado al guardar los datos. error al obtener conexión
+12:47:36.122 [main] INFO  com.krakedev.moduloii.evaluacionfinal.servicios.ServiciosArticulo - Error al intentar recuperar los datos. Bad value for type BigDecimal : 0,70
+12:50:12.911 [main] INFO  com.krakedev.moduloii.evaluacionfinal.servicios.ServiciosArticulo - Error al intentar recuperar los datos. Bad value for type BigDecimal : 0,70
+13:31:39.605 [main] INFO  com.krakedev.moduloii.evaluacionfinal.servicios.ServiciosArticulo - Error al intentar guardar los datos. No se ha especificado un valor para el parámetro 1.
