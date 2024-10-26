@@ -20,7 +20,7 @@ public class TestInsertar {
 			articulo.setPrecioVenta(precioVenta);
 			articulo.setPrecioCompra(precioCompra);
 			articulo.setIdGrupo(idGrupo);
-			ServiciosArticulo.insertar(articulo);
+			//ServiciosArticulo.insertar(articulo);
 		} catch (Exception e) {
 			System.out.println(e);
 		}

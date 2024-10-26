@@ -18,7 +18,7 @@ import com.krakedev.moduloii.evaluacionfinal.utils.ConexionBDD;
 public class ServiciosArticulo {
 	private static Logger logger = LogManager.getLogger(ServiciosArticulo.class);
 
-	public static void insertar(Articulo articulo) throws InventarioException {
+	public void insertar(Articulo articulo) throws InventarioException {
 		Connection conn = null;
 		try {
 			conn = ConexionBDD.obtenerConexion();
